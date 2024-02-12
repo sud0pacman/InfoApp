@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">InfoApp</string>
+    <string name="choliqushi">Choliqushi</string>
+    <string name="rashod_nuri_guntekin_choliqushi">Rashod Nuri Guntekin: Choliqushi</string>
+    <string name="big_game_author">Piter Hopkirk: Katta o\'yin. Ikki imperiya to\'qnashuvi</string>
+    <string name="katta_o_yin">Katta o\'yin</string>
+    <string name="diqqat">Diqqat</string>
+    <string name="kell_nyuport">Kell Nyuport</string>
+    <string name="katta_oyin_author">Piter Hopkirk</string>
+    <string name="diqqat_author">Kell Nyuport</string>
+    <string name="_1984">1984</string>
+    <string name="_1894_AUTHOR">Jorj Oruell</string>
+    <string name="molxona">Molxona</string>
+    <string name="molxona_author">Jorj Oruell</string>
+    <string name="atom_odatlar">Atom odatlar</string>
+    <string name="atom_author">Jeyms Klir</string>
+
+
+    <string name="choliqushi_info_txt">
+        Muhabbat mavzusiga bag‘ishlangan asarlarni millati va dinidan, yoshidan qatʼiy nazar, barcha birdek sevib, ko‘ziga yosh olib, qahramoni taqdiriga o‘zini hamdard qilib o‘qiydi. Rashod Nuri Guntekinning mashhur “Choliqushi” asarini ham xuddi shunday hissiyot bilan qo‘lga olasiz. Unda bu tuyg‘u o‘zining butun qudratini birgina ojiza – Choliqushi timsolida yaqqol gavdalantirib beradi.
+    </string>
+
+    <string name="katta_oyin_info_txt">
+        “Piter Hopkirk qoʻl uradigan har bir hikoya butunlay oʻziga jalb qiladi”
+— The Washington Post gazetasi
+
+Markaziy Osiyoning bugungi xaritasini chizib bergan “Katta oʻyin” haqida eshitganmisiz? Bu mintaqadagi xonliklarni oʻziga vassal va mustamlakaga aylantirish uchun ikki qudratli imperiya — Chor Rossiyasi va Britaniya oʻrtasida kechgan kurash “Katta oʻyin”ga asos boʻldi.
+
+Ushbu kitob mintaqada qariyb bir asr davom etgan siyosiy oʻyinlar, gilam osti diplomatiyasi, qonli janglar va katta hududni oʻz taʼsiri doirasiga tushirish uchun xalqaro bosim haqida qiziqarli tilda hikoya qiladi. Hikoya boʻlganda ham voqealarni oʻz koʻzlari bilan koʻrgan shohidlarning hikoyalari.
+Geosiyosiy bir oʻyin tarzida kechgan bu kurashda tomonlar kim koʻproq va kattaroq hududni egallash payida edi. Chor Rossiyasi Hindistonga chiqish, inglizlar tasarrufidagi hududni oʻziniki qilishni koʻzlasa, Britaniya imperiyasi bunga goh bufer davlatlar yaratish, goh Hindiston mulki chegaralarini kengaytirish orqali qarshi turadi. Rossiya ham inglizlar egallab olmasidan burun xonliklarni oʻz imperiyasiga qoʻshib olishga oshiqadi.
+    </string>
+
+    <string name="diqqat_info_txt">
+        Ishda, oʻqishda diqqatingizni jamlay olmaysizmi? Doim Telegram, Instagram va boshqa ijtimoiy tarmoqlar sizni chalgʻitadimi? Demak, AQShlik professor Kel Nyuportning maslahatlari aynan siz uchun. Diqqatni jamlab, chalgʻimasdan oʻz faoliyati bilan shugʻullanish muammoga aylangan zamonda professor oʻzining ilmiy asosga ega maslahatlari bilan sizga yordamga keladi.
+    </string>
+
+    <string name="_1984_info_txt">
+        Erkinlik ikki karra ikki to‘rt ekanligini ayta olishingdir.
+
+Britaniyalik yozuvchi Jorj Oruellning antiutopik yo‘nalishda yozilgan “1984” romani dunyoning eng mashhur asarlari ro‘yxatiga kiritilgan. Asar o‘zbek tilida ham nashr qilingandan so‘ng o‘zbek kitobxonlari orasida tezda mashhur bo‘lib ketdi, asarni mutolaa qilish, u haqida fikr bildirish haqiqiy chellenjga aylandi. Harqalay, raqsga tushib, boshidan muzdek suv quyishdan ko‘ra, foydali va tartibli musobaqa boshlandi.
+
+
+“1984” asarida o‘tgan asrning 80-yillarida Ummoniya (Angliya, Shimoliy va Janubiy Amerika, Avstraliya, Okeaniya, Janubiy Afrikaning umumiy nomi) mamlakatida hukm surgan siyosiy tuzum haqida so‘z boradi. Nom ham aynan voqealar sodir bo‘lgan yildan kelib chiqib tanlangandek. Kitobda tasvirlangan holatlar tarixiy dalillar bilan solishtirib ko‘rilganda esa real makon Sobiq sovet ittifoqi bo‘lgani, ingliz sotsializmi tushunchasi ostida kommunizm nazarda tutilgani, “1984” esa totalitar tuzum avj olgan palla — 1948 yil ekani (shunchaki raqamlarning o‘rni almashtirilgan) haqida o‘quvchida ehtimol paydo bo‘ladi.
+
+
+Oruell dunyosida o‘quvchini jalb qiladigan narsa – asarning nomi. Dastlab, uning ishchi nomi «​Yevropadagi oxirgi inson»​ bo‘lgandi. Robotlashayozgan Ingsots jamiyatida yashayotgan, xotirasi, ongi, hissiyotlarini saqlab qolishga intilgan bosh qahramonni yozuvchi faqat tashqi ko‘rinishi odamsimon bo‘lgan maxluq emas, chin maʼnodagi Inson sifatida ko‘rsatishni istaydi. Kuchli ehtimol bilan aytish mumkinki, roman bu nomda ham hozirgidan kam shuhrat qozonmagan bo‘lardi.
+
+Asar voqealari yuz bergan Ummoniyada yagona partiya, boshqaruvchi hokimiyat, jamiyat Ko‘zi mavjud. Ammo, u yerda tirik qonunlar yo‘q. Nimaiki partiya istaklariga uyg‘un bo‘lsa, shularning barchasi qonuniy. Uning manfaatlariga zid har qanday holat, xatti-harakat esa g‘ayriqonuniy. Mantiqan qaralganda, partiya – kishilar jamoasi, yaʼni asar bir guruh kishilar istagi amalga oshirilishi doimo qonuniy sanalgan Ummoniya haqida.
+
+
+Partiyaning g‘oyalari matematik aksiomaga o‘xshaydi, uni qanday bo‘lsa, shunday qabul qilishga majbursan, nega va qanday qilib degan “o‘rinsiz” savollarga isbot talab qilinmaydi. Partiyaga shaxs emas, individ, ongsiz individ kerak.
+
+“1984” asari uzoq yillar davomida (u 1949 yil chop etilgan) sovet makonida tarqalmaganini to‘g‘ri tushunish mumkin. Asar kapitalistlarning xuruji sifatida avtoritar rejimlar tomonidan inkor etilgan.
+
+
+Unda tasvirlangan Ingsots (ingliz sotsializmi) jamiyatida bir necha vazirlik faoliyat yuritadi — Haqiqat vazirligi, Muhabbat vazirligi, Farovonlik vazirligi. Lekin biz qo‘llaydigan «ismi jismiga monand» tushunchasi shu nuqtada o‘z maʼnisini batamom yo‘qotadi: Haqiqat vazirligida haqiqatdan boshqa hamma narsa bor. Farovonlik vazirligi istalgan narsaga xizmat qilishi mumkin, faqat farovonlikka emas. Muhabbat vazirligining vazifasi esa muhabbatni tag-tomiri bilan yo‘qotish. Shunga qaramay, Ummoniyada faqatgina Katta Og‘aga nisbatan muhabbat bo‘lishi mumkin. «Katta Og‘aga itoat qilish — bari ular uchun sevimli mashg‘ulotlar».
+    </string>
+
+    <string name="molxona_info_txt">
+        Janob Jons Angliyaning Uillingdon shaharchasi yaqinidagi Manor fermasiga egalik qiladi. Bu fermada bir kuni tunda qari cho‘chqa Mayor bu yerda yashaydigan barcha hayvonlarni katta omborga to‘playdi. Mayorning so‘zlariga ko‘ra, barcha hayvonlar qullikda va qashshoqlikda yashaydi, chunki insonlar hayvonlarning mehnat mahsulini olib qo‘yadi, evaziga esa ularga juda yomon munosabatda bo‘ladi. U hayvonlarni isyonga chaqiradi: siz odamdan qutulishingiz kerak, shunda hayvonlar darhol erkin va boy bo‘ladi, deb «Angliya hayvonlari» nomli eski qo‘shiqni kuylaydi. Hayvonlar jo‘r bo‘ladi.
+
+Qo‘zg‘olonga tayyorgarlikni eng aqlli hayvonlar deb hisoblangan cho‘chqalar o‘z zimmasiga oladi. Ular orasida Napoleon, Snoubol va Baqiroq deganlari bor edi. Ular Mayor taʼlimotini animalizm deb atalgan falsafiy tizimga aylantiradi hamda yashirin yig‘ilishlarda boshqa hayvonlarga uning asosini tushuntiradi. Taʼlimotning eng sodiq o‘quvchilari Bokschi va Klover ismli otlar edi. Qo‘zg‘olon kutilganidan ancha oldin sodir bo‘ladi, chunki Jons piyonista edi va uning ishchilari fermani butunlay tashlab, chorvani boqishni to‘xtatgandi. Hayvonlarning sabr-toqati tugaydi, ular xo‘jayinlariga tashlanib, ularni haydab chiqaradi.
+
+Endi ferma hayvonlarga tegishli. Ular egasini eslatadigan hamma narsani yo‘q qiladi; uning uyi muzey sifatida qoladi, ammo ularning hech biri bu yerda yashamasligi kerak. Mulkka yangi nom beriladi – Hayvonlar fermasi.
+
+Animalizm tamoyillari yetti moddaga qisqartirilib, ombor devoriga yoziladi. Bundan buyon hamma jonivorlar «Hayvonlar fermasi»da shu qoidalar asosida yashashga majbur:
+
+Ikki oyoqlilar – dushman;
+
+To‘rt oyoqlilar va qanotlilar – do‘stlar;
+
+Hayvonlar kiyim kiymasligi kerak;
+
+Hayvonlar to‘shakda uxlamasligi kerak;
+
+Hayvonlar spirtli ichimliklarni isteʼmol qilmasligi kerak;
+
+Hayvonlar boshqa hayvonlarni o‘ldirmasligi kerak;
+
+Barcha hayvonlar tengdir.
+
+Barcha moddalarni eslab qola olmaydiganlar uchun Snoubol ularni bitta jumlaga qisqartiradi: «To‘rt oyoqli yaxshi, ikki oyoqli yomon».
+
+Jonivorlar baxtli edi, garchi ular ertalabdan tushgacha ishlasa-da. Bokschi uch kishining ishini qiladi. Uning shiori – «Men bundan ham ko‘proq harakat qilaman». Yakshanba kunlari umumiy yig‘ilishlar o‘tkaziladi; qarorlarni doim cho‘chqalar taklif qiladi, qolganlar ovoz beradi. Keyin hamma «Angliya hayvonlari» madhiyasini kuylaydi. Cho‘chqalar ishlamaydi, boshqa hayvonlarni boshqaradi.
+
+Jons va uning ishchilari Hayvonlar fermasiga hujum qiladi, lekin jonivorlar o‘zlarini himoya qiladi va odamlar vahima ichida chekinadi. G‘alaba hayvonlarni hayratga soladi. Ular bu voqeani Molxona jangi deb ataydi, birinchi, ikkinchi darajali «Hayvonlar qahramoni» ordenini taʼsis etadi, u bilan Snoubol va Bokschi taqdirlanadi.
+
+Snoubol va Napoleon uchrashuvlarda doimo bahslashadi, ayniqsa shamol tegirmonini qurish masalasida. G‘oya Snoubolga tegishli, uning o‘zi o‘lchovlar, hisoblar va chizmalar bilan shug‘ullanadi: generatorni shamol tegirmoniga ulashni va fermani elektr energiyasi bilan taʼminlashni xohlaydi. Napoleon boshidan eʼtiroz bildiradi. Snoubol hayvonlarni yig‘ilishda Napoleonga qarshi ovoz berishga ishontirgan paytda to‘qqizta dahshatli it omborxonaga kirib, Snoubolga tashlanadi. U zo‘rg‘a qochadi; shu bilan uni boshqa hech kim ko‘rmaydi.
+
+Napoleon har qanday yig‘ilishni bekor qiladi. Endi barcha savollarni u boshqaradigan cho‘chqalarning maxsus qo‘mitasi hal qiladi; ular alohida yig‘iladi, keyin o‘z qarorlarini eʼlon qiladi. Qo‘rqinchli itlar birov eʼtiroz bildirishiga yo‘l qo‘ymaydi. Bokschi: «Agar o‘rtoq Napoleon aytgan bo‘lsa, bu to‘g‘ri demakdir», degan umumiy fikrni bildiradi. Shu vaqtdan boshlab uning ikkinchi shiori «Napoleon doim haq» bo‘lib qoladi.
+
+Napoleon shamol tegirmonini barpo etish kerakligini eʼlon qiladi. Aniqlanishicha, Napoleon doim bu qurilishni talab qilgan, Snoubol esa shunchaki uning g‘oyasini o‘g‘irlab, hisob-kitoblari va chizmalaridan foydalangan. Napoleon esa unga qarshi ekanligini daʼvo qilishi kerak edi, chunki «xavfli, barchaga yomon taʼsir ko‘rsatgan» Snouboldan qutulishning boshqa usuli yo‘q edi. Bir kuni tunda sodir bo‘lgan portlash yarim qurilgan shamol tegirmonini vayron qiladi. Napoleonning aytishicha, bu Snoubolning sharmandali surguni uchun qasosidir. U ko‘plab jinoyatlarda ayblanadi, unga o‘lim jazosi eʼlon qilinadi. U barchani shamol tegirmonini tezda tiklashga chaqiradi.
+
+Ko‘p o‘tmay Napoleon hayvonlarini hovlida yig‘ib, itlar hamrohligida paydo bo‘ladi. U bir marta unga eʼtiroz bildirgan cho‘chqalarni, bir nechta qo‘y, tovuq va g‘ozlarni Snoubol bilan yashirin aloqasini tan olishga majbur qiladi. Itlar darhol ularni bo‘g‘zidan oladi. Shokka tushgan jonivorlar motam ruhida «Angliya hayvonlari»ni kuylashni boshlaydi, ammo Napoleon madhiyani abadiy kuylashni taqiqlaydi. Bundan tashqari, oltinchi moddadani o‘zgartiradi: «Hayvonlar sababsiz boshqa hayvonlarni o‘ldirmasliklari kerak». Endi hammaga ayonki, o‘z ayblarini tan olgan xoinlar qatl qilinishi kerak.
+
+Qo‘shni janob Frederik 15 nafar qurollangan ishchisi bilan Hayvonlar fermasiga hujum qiladi, ko‘plab jonivorlarga jarohat yetkazadi, o‘ldiradi va yangi qurilgan shamol turbinasini portlatadi. Hayvonlar hujumni qaytaradi, lekin o‘zlari ham holdan toyadi. Ammo Napoleonning tantanali nutqini tinglab, ular Shamol tegirmoni jangida eng katta g‘alabaga erishganiga ishonadi.
+
+Bokschi haddan tashqari ko‘p ishlash tufayli o‘ladi. Yillar davomida fermadagi isyondan oldingi hayotni eslaydigan hayvonlar kamayib boradi. Hayvonlar fermasi asta-sekin boyib boradi, ammo cho‘chqalar va itlardan tashqari hamma och edi; ular somon ustida uxlaydi, ariqdan suv ichadi, kecha-yu kunduz dalada ishlaydi, qishda sovuqdan, yozda jaziramadan azob chekadi. Baqiroq esa hisobot va xulosalar yordamida fermada kundan kunga hayot yaxshilanayotganini gapirib yuradi (O‘zbekiston televideniyesi kabi). Hayvonlar boshqalarga o‘xshamasligidan g‘ururlanadi: axir ular Angliyada hamma teng, erkin va o‘z manfaati uchun ishlaydigan yagona fermaga egalik qiladi.
+
+Bu orada cho‘chqalar Jonsning uyiga ko‘chib o‘tadi va uning to‘shaklarida uxlay boshlaydi. Napoleon alohida xonada yashaydi va qimmatbaho idishlarda ovqat yeydi. Cho‘chqalar odamlar bilan savdo qilishni boshlaydi. Ular o‘zlari pishirgan viski va pivoni ichadi.
+
+Keyingi moddani buzgan holda cho‘chqalar uni o‘ziga mos keladigan tarzda qayta yozadi. Ombor devorida bittagina buyruq qoladi: «Barcha hayvonlar tengdir, ammo baʼzi hayvonlar boshqalarga qaraganda tengroqdir». Oxir-oqibat cho‘chqalar Jonsning kiyimlarini kiyib, ularni olqishlayotgan qo‘ylarning qarsaklari ostida orqa oyoqlarida yurishni boshlaydi: «To‘rt oyoqli yaxshi, ikki oyoqli yaxshiroq».
+
+Qo‘shni fermalardan odamlar cho‘chqalarni ziyorat qilish uchun keladi. Stolda mehmonlar va cho‘chqalar qarta o‘ynaydi, pivo ichadi, do‘stlik munosabatlari uchun deyarli bir xil tostlar aytadi. Napoleon ferma bundan buyon cho‘chqalarning umumiy mulki ekanini tasdiqlovchi hujjatlarni ko‘rsatadi va uni yana Manor fermasi deb nomlaydi. Keyin janjal ko‘tariladi, hamma qichqiradi va urishadi, odam qayerda, cho‘chqa qayerda, bilib bo‘lmay qoladi...
+    </string>
+
+    <string name="atom_info_txt">
+        ﻿New York Timesʼning birinchi raqamli bestselleri. Dunyo bo\'ylab 2 yilda 5 milliondan ortiq nusxada sotilgan!
+
+
+
+Sizga hayotingizni o\'zgartirishda muhim bo\'lgan ajoyib kitobni ona tilimizda taqdim etishdan xursandmiz.
+﻿Nima maqsad qoʻyganingizdan qatʼiy nazar, ushbu kitob sizga har kuni oz-ozdan yaxshilanib borishning sinalgan dasturini taklif qiladi. Odatlarni shakllantirish boʻyicha dunyoning yetakchi ekspertlaridan bori Jeyms Klir yaxshi odatlarni shakllantirish, yomonlaridan xalos boʻlish hamda katta natijalarga olib boruvchi kichik odatlarni egallashni oʻrgatuvchi amaliy strategiyalarni ochib beradi.
+        Agar odatlaringizni oʻzgartirishni uddasidan chiqa olmayotgan boʻlsangiz, muammo sizda emas. Muammo tizimda. Yomon odatlar takrorlanaverishining sababi siz ularni oʻzgartirishni xohlamayotganingizda emas, balki oʻzgarish uchun notoʻgʻri tizim tanlaganingizda. Siz maqsadlaringizning darajasiga koʻtarilmaysiz, bilʼaks tizimlaringiz darajasiga tushib qolasiz. Mazkur kitobda esa sizni yangi choʻqqilarga olib chiquvchi sinashta tizim bilan tanishasiz.
+
+ Klir murakkab mavzularni ham kundalik hayotga va ishga osongina tatbiq qilsa boʻladigan oddiy odatlarga bogʻlab, yechim bera olishi bilan tanilgan. Kitobda u yaxshi odatlarni muqarrar, yomonlarini esa ilojsiz qilish boʻyicha tushunishga oson yoʻriqnoma yaratar ekan, biologiya, psixologiya va neyroilmdagi eng ishonchli gʻoyalarga suyanadi. Mutolaa davomida kitobxon Olimpiadadagi oltin medal sohiblari, yetakchi biznesmenlar, inson hayotini saqlab qolgan shifokorlar oʻz kasbini ustasi boʻlishda mitti odatlar ilmidan foydalangani hamda sohada eng zoʻriga aylangani haqidagi hayotiy hikoyalarini oʻqib, ruhlanadi.
+    </string>
+    <string name="otash_author">Rashod Nuri Guntekin</string>
+    <string name="otash_kechasi">Otash kechasi</string>
+    <string name="yapon_zobiti">Yapon zobiti</string>
+    <string name="zobit_author">Ato Hamdam, Leonid Chigrin</string>
+    <string name="zukkolar_va_landavurlar">Zukkolar va landavurlar</string>
+    <string name="author_zukkolar_va_landavurlar">Malkolm Gladuell</string>
+    <string name="_0_dan_1_ga">0 dan 1 ga</string>
+    <string name="author_0_dan_1_ga">Piter Til, Bleyk Masters</string>
+    <string name="otash_kechasi_info">\nQo‘lingizdagi roman Rashod Nuri Guntekinning eng mashhur asarlaridan biridir. Roman qahramoni nihoyatda go‘zal, pokiza, lekin baxtsiz Afifani qattiq sevib qoladi, uning ishqida o‘rtanib kuyib-yonadi. Asar qahramonlarining ishq iztiroblari, dardu hasratlari kitobxonni befarq qoldirmaydi, go‘zallikka, muhabbatni qadrlashga chorlaydi.</string>
+    <string name="zobit_info_txt">\n“Yapon zobiti. Yutaro Todaning asirlikda boshdan kechirganlari” — Ato Hamdam va Leonid Chigrinning tarixiy romani. U birinchi marta rus tilida 2016-yilda nashr etilgan, shundan soʻng yapon, koreys va ingliz tillariga tarjima qilingan. 2023-yilda esa “Asaxiy Books” loyihasi doirasida oʻzbek tilida chop etildi.\nRoman 1904-1905 yillardagi rus-yapon urushi paytida Koreya qirgʻoqlarida kema halokatga uchragan yapon dengiz floti ofitseri Yutaro Toda haqida hikoya qiladi. U hayoti davomida turli ogʻir sinovlarni boshdan kechiradi va kuchli irodasi, sabri, vaziyatga tez moslashib qaror qilishi, taslim boʻlmasligi bilan kitobxonga namuna boʻladi. Roman Todaning hayotiy tajribalari haqida boʻlib, urush, madaniyat toʻqnashuvi va omon qolish mavzularini keltiradi. Roman oʻzining tarixiy aniqligi, hayajonli syujeti va koreys manzarasining yorqin tasviri uchun yuqori baholangan.</string>
+    <string name="zukkolar_va_landavurlar_info">Bu foniy dunyo hayotini adolatli deb boʻlmaydi. Negaki, unda pul, hokimiyat, shon-shuhrat va omad odamlarning barchasiga teng taqsimlangan emas. Nega ayrim odamlarning hamma narsasi bor, boshqalarda esa hech vaqo yoʻq? Omadning sabablarini faqat insonning tabiat inʼom etgan shaxsiy fazilatlari bilan bogʻlash toʻgʻrimikin?\n\nMalkolm Gladuell har doim mutlaqo tasodif hisoblab kelingan muvaffaqiyatlarning zamirida yotgan yashirin qonuniyatlarni topgan birinchi insondir. Bu qonuniyatlar nega aksariyat buyuk xokkeychilar faqat yanvarda tugʻilganligini va hech qachon oktyabrda tugʻilmasligini, nima uchun matematikani osiyolik talabalar boshqalardan koʻra osonroq oʻzlashtirishini, nega Nyu-Yorkning eng obroʻli advokati boʻlish uchun albatta yahudiy boʻlish lozimligini tushuntirib beradi. Bu kitob Bill Geyts, “Bitlz” va Motsart kabi shaxslarni nima bogʻlab turishini hamda ular nega oʻz tengdoshlaridan oʻzib ketganligini koʻrsatadi.</string>
+    <string name="_0_dan_1_ga_info">“Ushbu kitob dunyoda qiymat yaratish boʻyicha mutlaqo yangi va tetiklantiruvchi gʻoyalarni taqdim etadi”\n— Mark Sukerberg, Meta bosh direktori\n\n\n“Piter Til bir nechta ilgʻor kompaniyalarni qurdi va “Noldan birga” kitobi buni qanday qilishni koʻrsatadi.“\n— Elon Mask, SpaceX va Tesla bosh direktori\n\nZamonamizning eng katta siri shundaki, hali oʻrganilmagan chegaralar va yaratilishi kerak boʻlgan yangi ixtirolar mavjud. Afsonaviy tadbirkor va investor Piter Til “Noldan birga” kitobida yangi narsalarni yaratuvchi kompaniyalarni qurish usullarini qanday topishimiz mumkinligini koʻrsatadi.Til oʻz asarini mobil qurilmalarga mukkamizdan ketib, buni sezmayotgan boʻlsak ham, aslida texnologik turgʻunlik asrida yashayotganimizni koʻrsatish bilan boshlaydi. Axborot texnologiyalari tez surʼatda rivojlandi, ammo taraqqiyot faqat kompyuterlar yoki Silikon vodiysi bilan cheklanib qolmasligi kerak. Har qanday sanoat yoki biznes sohasida taraqqiyotga erishish mumkin. Bunda xar bir lider oʻzlashtirishi kerak boʻlgan eng muhim mahorat — mustaqil fikrlashni oʻrganishdir.\n\n</string>
+</resources>

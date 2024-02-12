@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1a2734"
+    tools:context=".MainActivity">
+    
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:background="#222d3a"
+            android:text="Kitoblar oladmi"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:fontFamily="@font/uzum_bold"
+            android:textStyle="bold"
+            />
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/cholishu_item"
+            android:layout_width="match_parent"
+            android:layout_height="88dp"
+            android:foreground="?android:selectableItemBackgroundBorderless">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/choliqushi"
+                android:paddingVertical="12dp"
+                android:layout_marginStart="8dp"/>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="82dp"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/choliqushi"
+                    android:textSize="18sp"
+                    android:fontFamily="@font/uzum_bold"
+                    android:textColor="@color/white"
+                    android:layout_weight="50"
+                    android:gravity="start|bottom"
+                    android:textStyle="bold"
+                    />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="55"
+                    android:text="@string/rashod_nuri_guntekin_choliqushi"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/uzum_medium"
+                    android:textColor="@color/white"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="#121d26"
+                    />
+
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/katta_oyin_item"
+            android:layout_width="match_parent"
+            android:layout_height="88dp"
+            android:foreground="?android:selectableItemBackgroundBorderless">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="85dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/katta_oyin"
+                android:scaleType="centerCrop"
+                android:paddingVertical="12dp"
+                android:layout_marginStart="8dp"/>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="82dp"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/katta_o_yin"
+                    android:textSize="18sp"
+                    android:fontFamily="@font/uzum_bold"
+                    android:textColor="@color/white"
+                    android:layout_weight="50"
+                    android:gravity="start|bottom"
+                    android:textStyle="bold"
+                    />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="55"
+                    android:text="@string/katta_oyin_author"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/uzum_medium"
+                    android:textColor="@color/white"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="#121d26"
+                    />
+
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/diqqat_item"
+            android:layout_width="match_parent"
+            android:layout_height="88dp"
+            android:foreground="?android:selectableItemBackgroundBorderless">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="85dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/diqqat"
+                android:scaleType="centerCrop"
+                android:layout_marginStart="8dp"
+                android:paddingVertical="12dp"/>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="82dp"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/diqqat"
+                    android:textSize="18sp"
+                    android:fontFamily="@font/uzum_bold"
+                    android:textColor="@color/white"
+                    android:layout_weight="50"
+                    android:gravity="start|bottom"
+                    android:textStyle="bold"
+                    />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="55"
+                    android:text="@string/diqqat_author"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/uzum_medium"
+                    android:textColor="@color/white"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="#121d26"
+                    />
+
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/_1984_item"
+            android:layout_width="match_parent"
+            android:layout_height="88dp"
+            android:foreground="?android:selectableItemBackgroundBorderless">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="85dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/_1984"
+                android:scaleType="centerCrop"
+                android:layout_marginStart="8dp"
+                android:paddingVertical="12dp"/>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="82dp"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/_1984"
+                    android:textSize="18sp"
+                    android:fontFamily="@font/uzum_bold"
+                    android:textColor="@color/white"
+                    android:layout_weight="50"
+                    android:gravity="start|bottom"
+                    android:textStyle="bold"
+                    />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="55"
+                    android:text="@string/_1894_AUTHOR"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/uzum_medium"
+                    android:textColor="@color/white"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="#121d26"
+                    />
+
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/molxona_item"
+            android:layout_width="match_parent"
+            android:layout_height="88dp"
+            android:foreground="?android:selectableItemBackgroundBorderless">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="85dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/molxa"
+                android:scaleType="centerCrop"
+                android:layout_marginStart="8dp"
+                android:paddingVertical="12dp"/>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="82dp"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/molxona"
+                    android:textSize="18sp"
+                    android:fontFamily="@font/uzum_bold"
+                    android:textColor="@color/white"
+                    android:layout_weight="50"
+                    android:gravity="start|bottom"
+                    android:textStyle="bold"
+                    />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="55"
+                    android:text="@string/molxona_author"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/uzum_medium"
+                    android:textColor="@color/white"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="#121d26"
+                    />
+
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/atom_item"
+            android:layout_width="match_parent"
+            android:layout_height="88dp"
+            android:foreground="?android:selectableItemBackgroundBorderless">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="85dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/atom"
+                android:scaleType="centerCrop"
+                android:layout_marginStart="8dp"
+                android:paddingVertical="12dp"/>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/atom_odatlar"
+                    android:textSize="18sp"
+                    android:fontFamily="@font/uzum_bold"
+                    android:textColor="@color/white"
+                    android:layout_weight="50"
+                    android:gravity="start|bottom"
+                    android:textStyle="bold"
+                    />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="55"
+                    android:text="@string/atom_author"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/uzum_medium"
+                    android:textColor="@color/white"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="#121d26"
+                    />
+
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/otash_item"
+            android:layout_width="match_parent"
+            android:layout_height="88dp"
+            android:foreground="?android:selectableItemBackgroundBorderless">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="85dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/img_otash_kechasi"
+                android:scaleType="centerCrop"
+                android:layout_marginStart="8dp"
+                android:paddingVertical="12dp"/>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/otash_kechasi"
+                    android:textSize="18sp"
+                    android:fontFamily="@font/uzum_bold"
+                    android:textColor="@color/white"
+                    android:layout_weight="50"
+                    android:gravity="start|bottom"
+                    android:textStyle="bold"
+                    />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="55"
+                    android:text="@string/atom_author"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/uzum_medium"
+                    android:textColor="@color/white"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="#121d26"
+                    />
+
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/zobit_item"
+            android:layout_width="match_parent"
+            android:layout_height="88dp"
+            android:foreground="?android:selectableItemBackgroundBorderless">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="85dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/img_zobit"
+                android:scaleType="centerCrop"
+                android:layout_marginStart="8dp"
+                android:paddingVertical="12dp"/>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/yapon_zobiti"
+                    android:textSize="18sp"
+                    android:fontFamily="@font/uzum_bold"
+                    android:textColor="@color/white"
+                    android:layout_weight="50"
+                    android:gravity="start|bottom"
+                    android:textStyle="bold"
+                    />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="55"
+                    android:text="@string/zobit_author"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/uzum_medium"
+                    android:textColor="@color/white"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="#121d26"
+                    />
+
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/zukkolar_item"
+            android:layout_width="match_parent"
+            android:layout_height="88dp"
+            android:foreground="?android:selectableItemBackgroundBorderless">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="85dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/img_zukkolar_valandavurlar"
+                android:scaleType="centerCrop"
+                android:layout_marginStart="8dp"
+                android:paddingVertical="12dp"/>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/zukkolar_va_landavurlar"
+                    android:textSize="18sp"
+                    android:fontFamily="@font/uzum_bold"
+                    android:textColor="@color/white"
+                    android:layout_weight="50"
+                    android:gravity="start|bottom"
+                    android:textStyle="bold"
+                    />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="55"
+                    android:text="@string/author_zukkolar_va_landavurlar"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/uzum_medium"
+                    android:textColor="@color/white"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="#121d26"
+                    />
+
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/_0dan_item"
+            android:layout_width="match_parent"
+            android:layout_height="88dp"
+            android:foreground="?android:selectableItemBackgroundBorderless">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="85dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/img_0_dan_1_ga"
+                android:scaleType="centerCrop"
+                android:layout_marginStart="8dp"
+                android:paddingVertical="12dp"/>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/_0_dan_1_ga"
+                    android:textSize="18sp"
+                    android:fontFamily="@font/uzum_bold"
+                    android:textColor="@color/white"
+                    android:layout_weight="50"
+                    android:gravity="start|bottom"
+                    android:textStyle="bold"
+                    />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="55"
+                    android:text="@string/author_0_dan_1_ga"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/uzum_medium"
+                    android:textColor="@color/white"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="#121d26"
+                    />
+
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    
+</ScrollView>
